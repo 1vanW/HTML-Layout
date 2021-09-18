@@ -1,0 +1,31 @@
+{
+  "name": "gulp-start",
+  "version": "1.0.0",
+  "description": "myProject",
+  "main": "index.js",
+  "dependencies": {
+    "normalize.css": "^8.0.1"
+  },
+  "devDependencies": {
+    "animate.css": "^4.1.1",
+    "browser-sync": "^2.26.13",
+    "browsersync": "0.0.1-security",
+    "del": "^6.0.0",
+    "gulp": "^4.0.2",
+    "gulp-autoprefixer": "^7.0.1",
+    "gulp-concat": "^2.6.1",
+    "gulp-imagemin": "^7.1.0",
+    "gulp-sass": "^4.1.0",
+    "gulp-uglify-es": "^2.0.0",
+    "jquery": "^3.5.1",
+    "node-sass": "^5.0.0",
+    "node-sass-tilde-importer": "^1.0.2",
+    "slick-carousel": "^1.8.1",
+    "wow.js": "^1.2.2"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
